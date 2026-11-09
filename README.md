@@ -1,22 +1,11 @@
-\# Intro Git
+   # Intro Git
 
+   Web sencilla para practicar los comandos basicos de Git.
 
+   ## Version anterior de la web
 
-Web sencilla (index.html) usada para practicar los comandos básicos de Git: clone, checkout, diff, commit, remote y push.
+   ![Version anterior](captura1.png)
 
+   ## Cambios del commit 4ded045
 
-
-\## Versión anterior de la web
-
-
-
-!\[Versión anterior](captura1.png)
-
-
-
-\## Cambios del commit 4ded045
-
-
-
-!\[Cambios del commit 4ded045](captura2.png)
-
+   ![Cambios](captura2.png)
